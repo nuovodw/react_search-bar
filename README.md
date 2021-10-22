@@ -1,1 +1,1 @@
-## React practice project based on ZTM Bootcamp
+## Mini React project to implement a search function
